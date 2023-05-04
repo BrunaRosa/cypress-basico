@@ -27,4 +27,4 @@ Ou execute `npm run cy:open` para abrir o Cypress via browser.
 
 Execute `npm run test:mobile` para rodar em modo headless
 
-Ou, execute `npm run cy:open:mobile` para rodar via browser.
+Ou, execute `npm run cy:open:mobile` para rodar via browser.# cypress-basico
